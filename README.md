@@ -1,14 +1,9 @@
-API Created in C# that web scrapes Discovery.co.za Covid 19 data and makes it available for other applications to utilize
-
+Web application for plumbers to keep track of their inventory and calculate costs for each job they have completed
 
 Features
-Ability To Fetch Data For a All Provinces
-
-Ability To Fetch Data For a Specfic Province
-
-Provides the Cumulative cases per 100 000 Discovery Health lives
-
-Provides the Daily growth rate (7 day average)
-
-Provides the 7 day average of new cases per 100 000 Discovery Health lives
-
+Ability To Add New Items and Assign them to Categories
+Ability To Add a New Job and Store The Necessary Details of It
+Ability To Add Items to a Particular Job
+Automatically Remove Quantity Used for a Job
+Automatically Calculate the Total Cost of a Job Based on the Items
+Implemented Search Functionality to Improve Productivity
